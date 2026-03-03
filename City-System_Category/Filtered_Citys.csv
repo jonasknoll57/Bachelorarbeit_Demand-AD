@@ -1,0 +1,18 @@
+network_name,total_rows,rows_real,rows_bike,rows_virtual,rows_only_nums,rows_unknown,unique_real_stations,unique_bike_stations,unique_virtual_stations,bike_return_pct,system_type
+Mannheim,2682830,2579329,103497,0,4,0,145,2783,0,3.86,station_based
+Heidelberg,1957306,1873100,84206,0,0,0,82,2550,0,4.3,station_based
+Marburg,1908545,1837213,71332,0,0,0,74,505,0,3.74,station_based
+Gießen,1082071,1041980,40091,0,0,0,79,730,0,3.71,station_based
+Freiburg,903866,872531,31335,0,0,0,147,1605,0,3.47,station_based
+Leverkusen,631591,602444,29145,0,2,0,179,1237,0,4.61,station_based
+Braunschweig,420416,399470,20924,22,0,0,170,1112,1,4.98,station_based
+Kaiserslautern,376125,357303,18820,0,2,0,39,1066,0,5.0,station_based
+Dortmund,345493,334022,11471,0,0,0,100,1117,0,3.32,station_based
+Kassel,337880,323835,14044,0,1,0,80,476,0,4.16,station_based
+Duisburg,253684,246265,7419,0,0,0,59,908,0,2.92,station_based
+Ludwigshafen,243099,227788,15309,0,2,0,68,2418,0,6.3,station_based
+Bochum,202918,195168,7750,0,0,0,95,1329,0,3.82,station_based
+Wiesbaden,163261,152302,10959,0,0,0,36,277,0,6.71,station_based
+Winsen (Luhe),159763,156438,3325,0,0,0,23,88,0,2.08,station_based
+Essen,156117,147948,8169,0,0,0,101,1102,0,5.23,station_based
+Offenburg,151573,143369,8204,0,0,0,28,608,0,5.41,station_based
