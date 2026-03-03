@@ -1,0 +1,136 @@
+network_name,total_rows,rows_real,rows_bike,rows_virtual,rows_only_nums,rows_unknown,unique_real_stations,unique_bike_stations,unique_virtual_stations,bike_return_pct,system_type
+Berlin,16023683,5471742,3604676,6947265,0,0,4811,7051,4538,22.5,ungewiss
+Dresden,4551185,2562703,1988482,0,0,0,629,2199,0,43.69,free_floating
+Mannheim,2682830,2579329,103497,0,4,0,145,2783,0,3.86,station_based
+Düsseldorf,2228882,1319214,909660,0,8,0,673,1360,0,40.81,free_floating
+Leipzig,2137554,1143325,994229,0,0,0,230,2385,0,46.51,free_floating
+Heidelberg,1957306,1873100,84206,0,0,0,82,2550,0,4.3,station_based
+Marburg,1908545,1837213,71332,0,0,0,74,505,0,3.74,station_based
+Karlsruhe,1391532,677902,713630,0,0,0,555,1058,0,51.28,free_floating
+Köln,1244021,658867,585154,0,0,0,318,3449,0,47.04,free_floating
+Nürnberg,1242709,631486,611223,0,0,0,611,3432,0,49.18,free_floating
+Gießen,1082071,1041980,40091,0,0,0,79,730,0,3.71,station_based
+Freiburg,903866,872531,31335,0,0,0,147,1605,0,3.47,station_based
+Frankfurt,801370,594644,206722,0,4,0,405,1218,0,25.8,free_floating
+Bielefeld,753820,454170,299648,0,2,0,332,881,0,39.75,free_floating
+Potsdam,673945,416995,92229,164720,1,0,261,823,151,13.68,ungewiss
+Leverkusen,631591,602444,29145,0,2,0,179,1237,0,4.61,station_based
+Braunschweig,420416,399470,20924,22,0,0,170,1112,1,4.98,station_based
+Kaiserslautern,376125,357303,18820,0,2,0,39,1066,0,5.0,station_based
+REVG,346859,307215,38190,1442,12,0,215,633,10,11.01,ungewiss
+Dortmund,345493,334022,11471,0,0,0,100,1117,0,3.32,station_based
+Kassel,337880,323835,14044,0,1,0,80,476,0,4.16,station_based
+Norderstedt,322895,238925,83969,0,1,0,53,262,0,26.01,free_floating
+Halle (Saale),261356,231410,29946,0,0,0,189,565,0,11.46,ungewiss
+Duisburg,253684,246265,7419,0,0,0,59,908,0,2.92,station_based
+Welo,249759,149119,100518,122,0,0,416,2671,5,40.25,free_floating
+Ludwigshafen,243099,227788,15309,0,2,0,68,2418,0,6.3,station_based
+Hannover,239629,140488,99141,0,0,0,113,706,0,41.37,free_floating
+Bremen,210935,102207,105267,3461,0,0,235,1501,24,49.9,free_floating
+Bochum,202918,195168,7750,0,0,0,95,1329,0,3.82,station_based
+Mönchengladbach,188261,170742,17519,0,0,0,49,513,0,9.31,ungewiss
+Wiesbaden,163261,152302,10959,0,0,0,36,277,0,6.71,station_based
+Winsen (Luhe),159763,156438,3325,0,0,0,23,88,0,2.08,station_based
+Essen,156117,147948,8169,0,0,0,101,1102,0,5.23,station_based
+Rüsselsheim am Main,152455,135343,17112,0,0,0,19,281,0,11.22,ungewiss
+Offenburg,151573,143369,8204,0,0,0,28,608,0,5.41,station_based
+Erlangen,128433,69519,58914,0,0,0,69,1846,0,45.87,free_floating
+Bergisches e-Bike,90330,79295,11018,0,17,0,81,161,0,12.2,ungewiss
+Grünheide (Mark),81298,55831,6935,18532,0,0,32,219,20,8.53,ungewiss
+SAP Walldorf,80386,63915,16471,0,0,0,28,123,0,20.49,ungewiss
+Konstanz,72871,71858,1013,0,0,0,81,180,0,1.39,station_based
+Dossenheim,71229,69166,2063,0,0,0,7,1066,0,2.9,station_based
+Lahr,69479,66135,3344,0,0,0,32,378,0,4.81,station_based
+Eifel e-Bike,68975,61075,7863,0,37,0,103,164,0,11.4,ungewiss
+Worms,64886,58020,6866,0,0,0,13,764,0,10.58,ungewiss
+Walldorf,54277,48639,5628,0,10,0,22,504,0,10.37,ungewiss
+Ettlingen,47457,27385,20072,0,0,0,33,839,0,42.3,free_floating
+Landau in der Pfalz,46379,43715,2664,0,0,0,15,376,0,5.74,station_based
+Speyer,45954,41895,4059,0,0,0,13,364,0,8.83,ungewiss
+Eppelheim,39614,38307,1307,0,0,0,3,802,0,3.3,station_based
+Frankenthal (Pfalz),38804,36652,2152,0,0,0,11,805,0,5.55,station_based
+Mülheim a.d.R.,37140,35655,1485,0,0,0,39,558,0,4.0,station_based
+Fürth,33727,16615,17112,0,0,0,31,2396,0,50.74,free_floating
+Soest,28482,25879,2603,0,0,0,48,327,0,9.14,ungewiss
+Rastatt,27901,21913,5988,0,0,0,20,274,0,21.46,ungewiss
+Schwetzingen,23968,22388,1580,0,0,0,20,584,0,6.59,station_based
+Lippstadt,23610,22536,1074,0,0,0,33,241,0,4.55,station_based
+Neustadt an der Weinstraße,23236,21748,1486,0,2,0,26,329,0,6.4,station_based
+Baden-Baden,23142,19962,3180,0,0,0,12,144,0,13.74,ungewiss
+Limburgerhof,22427,21793,634,0,0,0,3,322,0,2.83,station_based
+Graben,22232,20742,1490,0,0,0,2,38,0,6.7,station_based
+Hamm,20874,20049,825,0,0,0,9,92,0,3.95,station_based
+Berlin-Buch,19718,19086,632,0,0,0,16,104,0,3.21,station_based
+Ladenburg,18591,17672,919,0,0,0,6,551,0,4.94,station_based
+Weinheim,17205,16169,1036,0,0,0,16,414,0,6.02,station_based
+Heppenheim,16350,15132,1218,0,0,0,16,263,0,7.45,station_based
+Lünen,13439,12547,892,0,0,0,33,152,0,6.64,station_based
+Schwabach,13352,10258,3094,0,0,0,14,457,0,23.17,ungewiss
+AW-bike (VRM),12871,11705,1166,0,0,0,21,82,0,9.06,ungewiss
+Bruchsal,11010,9314,1696,0,0,0,5,77,0,15.4,ungewiss
+Gütersloh,10593,9189,1404,0,0,0,5,25,0,13.25,ungewiss
+Remagen,10196,9056,1140,0,0,0,4,79,0,11.18,ungewiss
+Kehl,9267,8115,1150,0,2,0,7,193,0,12.41,ungewiss
+Heidenau,9186,8361,825,0,0,0,14,347,0,8.98,ungewiss
+Bensheim,8982,8092,890,0,0,0,11,244,0,9.91,ungewiss
+Witten,8670,7991,679,0,0,0,17,292,0,7.83,station_based
+Herne,8072,7550,522,0,0,0,24,260,0,6.47,station_based
+Edingen-Neckarhausen,7217,6810,407,0,0,0,8,231,0,5.64,station_based
+Gelsenkirchen,7059,6112,947,0,0,0,28,306,0,13.42,ungewiss
+Schkeuditz,6489,3720,2769,0,0,0,20,293,0,42.67,free_floating
+Rheinstetten,6460,4521,1939,0,0,0,5,651,0,30.02,free_floating
+Heddesheim,6291,5793,498,0,0,0,5,242,0,7.92,station_based
+Lampertheim,5905,5233,672,0,0,0,11,189,0,11.38,ungewiss
+Geilenkirchen,5397,4856,541,0,0,0,4,38,0,10.02,ungewiss
+Roche - Mannheim,5274,3996,1278,0,0,0,10,87,0,24.23,ungewiss
+Viernheim,5264,4803,461,0,0,0,11,106,0,8.76,ungewiss
+Achern,5205,4778,427,0,0,0,6,122,0,8.2,ungewiss
+Schriesheim,5122,4780,342,0,0,0,2,233,0,6.68,station_based
+Oberhausen,5000,4509,491,0,0,0,22,219,0,9.82,ungewiss
+Bad Neuenahr-Ahrweiler,3963,3153,810,0,0,0,6,82,0,20.44,ungewiss
+Bürstadt,3555,3289,266,0,0,0,10,112,0,7.48,station_based
+Friedrichsdorf,3223,2834,389,0,0,0,9,56,0,12.07,ungewiss
+Freital,3091,2460,631,0,0,0,12,241,0,20.41,ungewiss
+Ilvesheim,2300,2145,155,0,0,0,5,115,0,6.74,station_based
+Bottrop,2249,2090,159,0,0,0,8,82,0,7.07,station_based
+Bad Oeynhausen,2180,1801,379,0,0,0,14,62,0,17.39,ungewiss
+Neu-Anspach,2180,1951,229,0,0,0,4,48,0,10.5,ungewiss
+Gengenbach,2091,1852,239,0,0,0,3,70,0,11.43,ungewiss
+Erkelenz,2014,1627,387,0,0,0,5,59,0,19.22,ungewiss
+Bad Breisig,1964,1615,349,0,0,0,3,58,0,17.77,ungewiss
+Hattingen,1704,1487,217,0,0,0,10,104,0,12.73,ungewiss
+Bad Sassendorf,1619,1429,190,0,0,0,6,69,0,11.74,ungewiss
+Schutterwald,1545,1300,245,0,0,0,2,131,0,15.86,ungewiss
+Usingen,1468,1314,154,0,0,0,4,41,0,10.49,ungewiss
+Gaggenau,1163,918,245,0,0,0,4,38,0,21.07,ungewiss
+Appenweier,947,835,112,0,0,0,2,49,0,11.83,ungewiss
+Friesenheim,827,655,172,0,0,0,3,81,0,20.8,ungewiss
+Seelbach,675,574,101,0,0,0,2,55,0,14.96,ungewiss
+Ense,660,555,105,0,0,0,6,43,0,15.91,ungewiss
+Oberkirch,659,608,51,0,0,0,3,33,0,7.74,station_based
+Sinzig,565,406,159,0,0,0,1,52,0,28.14,free_floating
+Wegberg,446,289,157,0,0,0,4,41,0,35.2,free_floating
+Hückelhoven,430,257,173,0,0,0,4,22,0,40.23,free_floating
+Grafschaft-Ringen,423,289,134,0,0,0,1,51,0,31.68,free_floating
+Heinsberg,407,261,146,0,0,0,4,28,0,35.87,free_floating
+Rheinau,322,258,64,0,0,0,3,32,0,19.88,ungewiss
+Taucha,261,151,110,0,0,0,13,44,0,42.15,free_floating
+Lippetal,233,202,31,0,0,0,3,22,0,13.3,ungewiss
+Altenahr,201,120,81,0,0,0,2,26,0,40.3,free_floating
+Hockenheim,176,160,16,0,0,0,8,10,0,9.09,ungewiss
+Kempenich,148,77,71,0,0,0,1,25,0,47.97,free_floating
+Niederzissen,138,69,69,0,0,0,1,28,0,50.0,free_floating
+Anröchte,72,40,32,0,0,0,1,14,0,44.44,free_floating
+Gundelfingen,69,53,16,0,0,0,4,13,0,23.19,ungewiss
+Adenau,59,33,26,0,0,0,1,11,0,44.07,free_floating
+Halle,51,33,18,0,0,0,15,15,0,35.29,free_floating
+Democity 2,41,30,11,0,0,0,3,4,0,26.83,free_floating
+Democity,33,27,6,0,0,0,4,4,0,18.18,ungewiss
+Merzhausen,32,19,13,0,0,0,1,7,0,40.62,free_floating
+Leimen,22,15,7,0,0,0,5,7,0,31.82,free_floating
+Umkirch,6,6,0,0,0,0,1,0,0,0.0,station_based
+Nußloch,4,4,0,0,0,0,2,0,0,0.0,station_based
+Neckargemünd,3,3,0,0,0,0,3,0,0,0.0,station_based
+Amprion Brauweiler,1,1,0,0,0,0,1,0,0,0.0,station_based
+Amprion Rommerskirchen,1,0,1,0,0,0,0,1,0,100.0,free_floating
+Bammental,1,1,0,0,0,0,1,0,0,0.0,station_based
