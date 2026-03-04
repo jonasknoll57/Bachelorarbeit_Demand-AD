@@ -1,0 +1,1 @@
+1: War erste Analyse aller Städte -> einige Fehler drin z.B. werden Stations anhand aller Location-IDs definiert
