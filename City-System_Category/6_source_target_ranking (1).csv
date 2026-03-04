@@ -1,0 +1,67 @@
+,source,target,similarity
+1,Heidelberg,Freiburg,0.972
+2,Leverkusen,Bochum,0.9601
+3,Leverkusen,Essen,0.9599
+4,Leverkusen,Dortmund,0.9586
+5,Mannheim,Dortmund,0.9436
+6,Mannheim,Braunschweig,0.9421
+7,Kassel,Essen,0.9399
+8,Ludwigshafen,Braunschweig,0.9388
+9,Leverkusen,Duisburg,0.9372
+10,Kassel,Duisburg,0.9299
+11,Kassel,Dortmund,0.9286
+12,Kassel,Freiburg,0.925
+13,Mannheim,Freiburg,0.9217
+14,Mannheim,Essen,0.9204
+15,Winsen (Luhe),Braunschweig,0.918
+16,Offenburg,Freiburg,0.9163
+17,Mannheim,Bochum,0.9157
+18,Kassel,Bochum,0.9118
+19,Ludwigshafen,Dortmund,0.9115
+20,Kassel,Braunschweig,0.9083
+21,Mannheim,Duisburg,0.9023
+22,Gießen,Freiburg,0.8964
+23,Wiesbaden,Freiburg,0.8945
+24,Ludwigshafen,Duisburg,0.8878
+25,Kaiserslautern,Freiburg,0.8866
+26,Ludwigshafen,Bochum,0.8827
+27,Wiesbaden,Dortmund,0.8791
+28,Ludwigshafen,Essen,0.8764
+29,Gießen,Dortmund,0.8739
+30,Marburg,Freiburg,0.8735
+31,Gießen,Essen,0.8735
+32,Gießen,Bochum,0.8715
+33,Wiesbaden,Essen,0.8704
+34,Winsen (Luhe),Dortmund,0.8691
+35,Leverkusen,Braunschweig,0.8654
+36,Heidelberg,Essen,0.863
+37,Wiesbaden,Bochum,0.8623
+38,Heidelberg,Dortmund,0.8613
+39,Heidelberg,Braunschweig,0.8563
+40,Gießen,Braunschweig,0.8549
+41,Wiesbaden,Braunschweig,0.8491
+42,Leverkusen,Freiburg,0.8482
+43,Offenburg,Essen,0.8458
+44,Winsen (Luhe),Bochum,0.8454
+45,Heidelberg,Bochum,0.8415
+46,Heidelberg,Duisburg,0.8381
+47,Offenburg,Dortmund,0.8368
+48,Offenburg,Braunschweig,0.8343
+49,Gießen,Duisburg,0.8318
+50,Wiesbaden,Duisburg,0.8287
+51,Kaiserslautern,Essen,0.8265
+52,Winsen (Luhe),Essen,0.8215
+53,Offenburg,Bochum,0.8175
+54,Ludwigshafen,Freiburg,0.8085
+55,Kaiserslautern,Dortmund,0.8079
+56,Winsen (Luhe),Freiburg,0.8051
+57,Marburg,Bochum,0.8038
+58,Kaiserslautern,Bochum,0.8024
+59,Winsen (Luhe),Duisburg,0.8021
+60,Offenburg,Duisburg,0.7921
+61,Kaiserslautern,Duisburg,0.7891
+62,Kaiserslautern,Braunschweig,0.7883
+63,Marburg,Essen,0.7862
+64,Marburg,Dortmund,0.7818
+65,Marburg,Braunschweig,0.7684
+66,Marburg,Duisburg,0.767
